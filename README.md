@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mark Anthony</h1>
 <h3 align="center">An aspiring developer from the Philippines</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=max31337&label=Profile%20views&color=0e75b6&style=flat" alt="max31337" />
