@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 I’m currently working on Personal Projects and Freelance Development.
-- 🌱 I’m currently learning React, Node.js, and revisiting C.
+- 🌱 I’m currently learning **React, C#, and C**, also trying to jumpship to **dotnet** ecosystem .
 - 🎓 I’m a student at QCU, expanding my skills in development.
 - 💵 Accepting freelance web development projects and offering consulting for startups and small businesses.
 - 📫 How to reach me: navarro.markanthony.tud@gmail.com
