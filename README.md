@@ -35,5 +35,5 @@
 
 # 📊 GitHub Stats
 <p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=max31337&show_icons=true&locale=en&layout=compact&theme=dracula" alt="max31337" /></p>
-<p>&nbsp;<img align="center" height="200px" width="460px"src="https://github-readme-stats.vercel.app/api?username=max31337&show_icons=true&locale=en&theme=dracula" alt="max31337" /></p>
+<p>&nbsp;<img align="center" height="200px" width="455px"src="https://github-readme-stats.vercel.app/api?username=max31337&show_icons=true&locale=en&theme=dracula" alt="max31337" /></p>
 
