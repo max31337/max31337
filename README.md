@@ -39,6 +39,6 @@
 </p>
 
 <p align="right">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=max31337&show_icons=true&locale=en&theme=dracula" alt="max31337" />
+    <img height="200px" width="200px" src="https://github-readme-stats.vercel.app/api?username=max31337&show_icons=true&locale=en&theme=dracula" alt="max31337" />
 </p>
 
