@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/max31337/max31337/raw/main/assets/my-banner-image.png)](https://github.com/max31337)
 
-<h1 align="center">Hi! It's Mark Anthony here.</h1>
-<h3 align="center">An aspiring developer from the Philippines</h3>
+<h1 align="center">Hi, I'm Mark Anthony 👋</h1>
+<h3 align="center">An aspiring Full-stack Developer from the Philippines</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
 
