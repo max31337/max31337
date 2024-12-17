@@ -34,8 +34,8 @@
 </p>
 
 # 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=max31337&show_icons=true&locale=en&layout=compact&theme=dracula" alt="max31337" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=max31337&show_icons=true&locale=en&layout=compact&theme=dracula" alt="max31337" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=max31337&show_icons=true&locale=en&theme=dracula" alt="max31337" /></p>
+<p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=max31337&show_icons=true&locale=en&theme=dracula" alt="max31337" /></p>
 
 ---
