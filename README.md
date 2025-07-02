@@ -43,7 +43,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=max31337&show_icons=true&locale=en&layout=compact&theme=dracula" alt="max31337" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=max31337&show_icons=true&locale=en&layout=compact&theme=dracula&cache_bust={{ RANDOM_STRING_OR_TIMESTAMP }}" alt="max31337" />
 
 <p align="center">
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=max31337&theme=dracula" alt="max31337 " />
